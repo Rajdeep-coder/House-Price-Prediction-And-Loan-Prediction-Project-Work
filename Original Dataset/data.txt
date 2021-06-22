@@ -1,1 +1,3 @@
+In this directry you found origenal data that cant train our modules, if you need only project not how to work then it's not importent for you.
 
+those are intrestet to know that how the model work and what are the steps to do for data preprocessing then i give you .ipynb notbooks pls read it.
