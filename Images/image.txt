@@ -1,1 +1,3 @@
+plese do not change the directrys, and read the instructions carefully otherwise you do not able to run this project !
 
+"these images is used in this project do not change the name of any image" -------------------> Images available in this directry
