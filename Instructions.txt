@@ -1,1 +1,40 @@
+--------------------- "Please read all instructions carefully" --------------------------
 
+1. make sure you have already install Python on your Windows server or local machine
+   if not install go through link and follow all steps ------> https://phoenixnap.com/kb/how-to-install-python-3-windows
+
+2. make sure you have already install MYSQL on your Windows server or local machine
+   if not install go through link and follow all steps ------> https://youtu.be/GIRcpjg-3Eg
+   
+3. After installing Python you have following packages in python
+   run window command line and insatall all packages:
+   pip install numpy
+   pip install pandas
+   pip install sklearn
+   pip install joblib
+   pip install tkinter
+   pip install PIL or pip install pillow
+   pip install re
+   
+   if you get any error then google it, you find best result with solution
+   
+4. then arrange all the files according to the "Project structure.png"
+
+5. Run python file "ml train.py" if you get any error then google it and solve.
+   when you run "ml train.py" sucessfully then create one file "bangalore_house_price_prediction_rfr_model.pkl" in same directry.
+   
+6. Run python file "ml_loan train.py" if you get any error then google it and solve.
+   when you run "ml train.py" sucessfully then create one file "loan_model.pkl" in same directry.
+   
+7. Now, Open "project HPP.py" and find Raj@coder in "project HPP.py" file and repleace it with your MYSQL password
+   for simplicity press ctrl+f and type Raj@coder you find total 4 places where Raj@coder is present replace it with your MYSQL password.
+   
+8. Run "project HPP.py" if you get error google it and solve,  rerun the "project HPP.py" 
+   when "project HPP.py" run you get beautiful graphical interface.
+   
+   
+   if you have any query contact:
+   7354704537
+   rajdeepsinghpanwar@gmail.com
+   
+   Thanks   
